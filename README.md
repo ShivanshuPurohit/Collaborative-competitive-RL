@@ -117,7 +117,7 @@ At **2761 episodes** the **Average Score** is achived to **+1.14**.
       def load(dir) # input - directory containing checkpoint files
       play(agent, env, games) # agent is multi-agent ddpg     
             
- [4] Play after training
+ [3] Play after training
  
       Agent #0: Red racket
       Agent #1: Blue racket
