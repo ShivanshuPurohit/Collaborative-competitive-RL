@@ -132,4 +132,4 @@ At **2761 episodes** the **Average Score** is achived to **+1.14**.
       
 ### Credit
 
-Most of the code is based on the Udacity code for Mupti-agent DDPG.     
+Most of the code is based on the Udacity code for Multi-agent DDPG.     
